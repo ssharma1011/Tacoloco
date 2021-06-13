@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.config;
+package com.tacoloco.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.service;
+package com.tacoloco.service;
 
 import java.util.List;
 import java.util.Map;
@@ -7,9 +7,9 @@ import java.util.Objects;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.detroitlabs.tacoloco.common.Constants;
-import com.detroitlabs.tacoloco.config.DataProperties;
-import com.detroitlabs.tacoloco.config.ValidationException;
+import com.tacoloco.common.Constants;
+import com.tacoloco.config.DataProperties;
+import com.tacoloco.config.ValidationException;
 
 import lombok.extern.log4j.Log4j2;
 

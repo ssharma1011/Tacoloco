@@ -15,8 +15,9 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.detroitlabs.tacoloco.config.DataProperties;
-import com.detroitlabs.tacoloco.config.ValidationException;
+import com.tacoloco.config.DataProperties;
+import com.tacoloco.config.ValidationException;
+import com.tacoloco.service.OrderServiceImpl;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 public class OrderServiceImplTest {

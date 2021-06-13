@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.config;
+package com.tacoloco.config;
 
 public class ValidationException extends RuntimeException {
 

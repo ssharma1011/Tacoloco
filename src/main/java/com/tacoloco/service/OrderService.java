@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.service;
+package com.tacoloco.service;
 
 import java.util.List;
 import java.util.Map;

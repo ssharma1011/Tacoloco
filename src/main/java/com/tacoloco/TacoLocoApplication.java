@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco;
+package com.tacoloco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

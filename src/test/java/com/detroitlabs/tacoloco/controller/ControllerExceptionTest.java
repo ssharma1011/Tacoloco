@@ -16,6 +16,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
+import com.tacoloco.controller.Controller;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 public class ControllerExceptionTest {

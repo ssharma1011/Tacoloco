@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.common;
+package com.tacoloco.common;
 
 public class Constants {
 

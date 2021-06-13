@@ -14,9 +14,10 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import com.detroitlabs.tacoloco.service.OrderService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
+import com.tacoloco.controller.Controller;
+import com.tacoloco.service.OrderService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 public class ControllerTest {

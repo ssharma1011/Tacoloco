@@ -9,7 +9,7 @@
 		<version>2.5.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.detroitlabs.tacoloco</groupId>
+	<groupId>com.tacoloco</groupId>
 	<artifactId>taco-loco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TacoLoco</name>

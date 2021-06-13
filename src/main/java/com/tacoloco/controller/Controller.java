@@ -1,4 +1,4 @@
-package com.detroitlabs.tacoloco.controller;
+package com.tacoloco.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.detroitlabs.tacoloco.common.Constants;
-import com.detroitlabs.tacoloco.config.ValidationException;
-import com.detroitlabs.tacoloco.service.OrderService;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.tacoloco.common.Constants;
+import com.tacoloco.config.ValidationException;
+import com.tacoloco.service.OrderService;
 
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.log4j.Log4j2;
